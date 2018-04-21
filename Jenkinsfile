@@ -1,4 +1,4 @@
-env.SCM_URL = "https://github.com/myownsoul/devops-tools-chain-demo.git"
+env.SCM_URL = "https://github.com/xuchaobcu/devops-tools-chain-demo.git"
 env.IMG_REG = "aura"
 env.IMG_NAME = "${env.IMG_REG}/hello-docker"
 env.IMG_TAG = "${env.BUILD_NUMBER}"
